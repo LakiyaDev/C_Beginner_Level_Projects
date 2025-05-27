@@ -10,7 +10,7 @@ struct student {
     char grade;
 };
 
-// Helper function to check if index number already exists
+// function to check if index number already exists
 int index_exists(int indexno, FILE *fptr) {
     struct student st;
     rewind(fptr);
@@ -271,7 +271,7 @@ void result_menu() {
 void entry_menu() {
     int choice;
     do {
-        printf("\n=== Entry/Edit Menu ===\n");
+        printf("\n\n=== Entry/Edit Menu ===\n\n");
         printf("1. Create Student Record\n");
         printf("2. Display All Records\n");
         printf("3. Search Student Record\n");
@@ -308,7 +308,7 @@ void entry_menu() {
 // Introduction screen
 void intro() {
     printf("\n=== Student Report Card System ===\n");
-    printf("Developed by: Sadeepa Lakshan\n");
+    printf("\n\nDeveloped by: Sadeepa Lakshan\n");
     printf("Institution: Faculty of Technology, University of Sri Jayewardenepura\n");
     printf("Manage student records and grades efficiently.\n");
     printf("Press Enter to continue...");
