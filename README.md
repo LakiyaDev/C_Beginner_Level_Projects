@@ -6,4 +6,5 @@ This repository contains my beginner-level C projects developed during my academ
 04.<a href ="https://github.com/LakiyaDev/C_Beginner_Level_Projects/blob/main/StudentReportMangementSystem.c"> Student Report Management System</a></br>
 05.<a href ="https://github.com/LakiyaDev/C_Beginner_Level_Projects/blob/main/HotelReservationSystem.c"> Hotel Reservation System</a></br>
 06.<a href = "https://github.com/LakiyaDev/C_Beginner_Level_Projects/blob/main/CQuizGame.c"> C Quiz Game</a></br>
+07.<a href = "https://github.com/LakiyaDev/C_Beginner_Level_Projects/blob/main/Restaurant_Billing_System.c"> Restaurant Billing and Invoice System </a></br>
 
